@@ -1,0 +1,2 @@
+The objective of this project is to process and analyse microscopic detector data from German highways to construct the macroscopic fundamental diagrams: Flow vs. Density (q-k), Speed vs. Density (v-k), and Flow vs. Speed (q-v). 
+Rather than merely plotting the data, it evaluates the human behavioural factors (scatter) present in the data, applies three mathematical models to isolate critical traffic thresholds, and translates these empirical metrics into practical parameters used in modern Intelligent Transportation Systems (ITS).
